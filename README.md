@@ -1,6 +1,6 @@
 # 🚀 Project Genesis
 
-Welcome to **Project Genesis** — my personal portfolio documenting my journey toward becoming an AI & Machine Learning Engineer.
+Welcome to **Project Genesis**  my personal portfolio documenting my journey toward becoming an AI & Machine Learning Engineer.
 
 This repository showcases my learning progress, projects, certifications, and resources as I develop practical skills in Artificial Intelligence, Machine Learning, Data Science, and Python.
 
