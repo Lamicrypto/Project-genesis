@@ -1,43 +1,126 @@
-# Project Genesis
+# 🚀 Project Genesis
 
-Welcome to my AI and Machine Learning portfolio.
+Welcome to **Project Genesis** — my personal portfolio documenting my journey toward becoming an AI & Machine Learning Engineer.
 
-This repository documents my journey toward becoming an AI & Machine Learning Engineer through hands-on learning and practical projects.
+This repository showcases my learning progress, projects, certifications, and resources as I develop practical skills in Artificial Intelligence, Machine Learning, Data Science, and Python.
 
-## Repository Structure
+---
 
-📂 Certificates
-- Kaggle course certificates
+## 👨‍💻 About Me
 
-📂 Projects
-- Machine Learning projects
-- Data Analysis projects
-- SQL projects
-- Feature Engineering
-- Data Visualization
+Hi, I'm **Timothy Olamide**.
 
-📂 Resume
-- Professional AI Resume
+I am an aspiring AI & Machine Learning Engineer with a passion for solving real-world problems using data and intelligent systems.
 
-📂 Cover Letters
-- Job application templates
+I enjoy learning new technologies, building practical projects, and continuously improving my technical skills.
 
-📂 Interview Prep
-- AI interview notes and preparation
+---
 
-📂 Resources
-- Learning materials and references
+## 📂 Repository Structure
 
-## Technologies
+```
+Project-genesis/
+│
+├── 📜 Certificates
+├── 💼 Resume
+├── 📁 Projects
+├── 📝 Notes
+├── 📚 Resources
+├── 💌 Cover Letters
+└── 🎯 Interview Prep
+```
+
+---
+
+## 🧠 Skills
 
 - Python
 - SQL
 - Pandas
+- Data Visualization
+- Machine Learning
+- Feature Engineering
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+- 📊 Data Visualization Final Project
+- 🤖 Intermediate Machine Learning Final Project
+- ⚙️ Feature Engineering Project
+- 🐼 Data Analysis with Pandas
+- 🗄️ SQL Data Analysis
+
+More projects will be added as I continue learning and building.
+
+---
+
+## 📜 Certifications
+
+Completed Kaggle courses including:
+
+- Intro to Programming
+- Python
+- Pandas
+- Data Visualization
+- Intro to Machine Learning
+- Intermediate Machine Learning
+- Feature Engineering
+- Intro to AI Ethics
+- Intro to SQL
+
+Certificates are available in the **Certificates** folder.
+
+---
+
+## 🎯 Current Goals
+
+- Build practical AI and Machine Learning projects
+- Strengthen Python and SQL skills
+- Learn Deep Learning
+- Explore Natural Language Processing (NLP)
+- Contribute to open-source projects
+- Secure a remote AI/Machine Learning role
+
+---
+
+## 🛠️ Technologies
+
+- Python
+- Pandas
 - NumPy
+- SQL
 - Scikit-learn
 - Git
 - GitHub
 
-## Goal
+---
 
-To build real-world AI, Machine Learning, and Data Science skills while creating a portfolio that demonstrates continuous growth and practical experience.
+## 📈 Learning Progress
+
+- ✅ Python Fundamentals
+- ✅ SQL
+- ✅ Data Analysis
+- ✅ Data Visualization
+- ✅ Machine Learning Basics
+- ✅ Intermediate Machine Learning
+- 🔄 Portfolio Development
+- 🔄 Building Real-World AI Projects
+
+---
+
+## 🌟 Vision
+
+> Every expert was once a beginner.
+
+Project Genesis represents my commitment to continuous learning, consistency, and building practical AI solutions that create real-world impact.
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/Lamicrypto
+- **LinkedIn:** *(Updating soon)*
+
+Thanks for visiting my portfolio!
